@@ -15,7 +15,7 @@ The paper begins with an exploration of tree methods and boosting techniques. We
 ## Methods
 We employ both GBDT and XGBoost methods for our analysis. The paper discusses various aspects of these methods, including their mathematical models, objective functions, optimization processes, and implementation details. We use Kaggle's COVID-19 dataset for training and prediction, focusing on various performance metrics.
 
-!![XGBoost Flowchart](images/flowchart.png)
+![XGBoost Flowchart](images/flowchart.png)
 
 
 ## Experiment/Results
