@@ -5,7 +5,7 @@
 - 36282705
 - 36202620
 - 36347797
-- 
+
 ## Abstract
 This paper explores the XGBoost and Gradient Boosting Decision Tree (GBDT) algorithms for analyzing COVID datasets. Our study aims to compare these two widely used techniques in machine learning and their effectiveness in different aspects such as performance, accuracy, precision, and model training time.
 
