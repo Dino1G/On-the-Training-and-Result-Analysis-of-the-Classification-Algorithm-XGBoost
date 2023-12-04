@@ -22,25 +22,18 @@ Our results indicate differences in performance between GBDT and XGBoost in term
 We discuss the learning experience, challenges encountered, and the insights gained from this study. The paper concludes with suggestions for future research directions.
 
 ## References
-A list of references is provided to support the research and findings discussed in the paper.
+<a id="1">[1]</a> Y.-Y. Song and L. Ying, “Decision tree methods: applications for classification and prediction,” Shanghai archives of psychiatry, vol. 27, no. 2, p. 130, 2015.
 
-## How to Use This Repository
-- Clone the repository to your local machine.
-- Install the required dependencies listed in `requirements.txt`.
-- Run the Jupyter notebooks to replicate the analysis.
-- Follow the comments and documentation in the code for a detailed understanding of the implementation.
+<a id="1">[2]</a> T. Chen and C. Guestrin, “Xgboost: A scalable tree boosting system,” in Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining, no. 5, 2016, pp. 785–794.
 
-## Contributors
-- Author 1: [Author Name]
-- Author 2: [Author Name]
-- Author 3: [Author Name]
-- Author 4: [Author Name]
+<a id="1">[3]</a> W. Liang, S. Luo, G. Zhao, and H. Wu, “Predicting hard rock pillar stability using GBDT, XGBoost, and LightGBM algorithms,” Mathematics, vol. 8, no. 1, p. 765, 2020.
 
-## License
-This project is licensed under the [License Name].
+<a id="1">[4]</a> J. Cheng, G. Li, and X. Chen, “Research on travel time prediction model of freeway based on gradient boosting decision tree,” IEEE Access, vol. 7, no. 2, pp. 7466–7480, 2018.
 
-## Contact
-For any queries, please reach out to [Contact Information].
+<a id="1">[5]</a> T. Chen, T. He, M. Benesty, V. Khotilovich, Y. Tang, H. Cho, K. Chen et al., “XGBoost: extreme gradient boosting,” R package version 0.4-2, vol. 1, no. 3, pp. 1–4, 2015.
 
----
-Paper ID: 36282705, 36202620, 36347797, 36228559
+<a id="1">[6]</a> B. Li, J. Friedman, R. Olshen, and C. Stone, “Classification and regression trees (CART),” Biometrics, vol. 40, no. 4, pp. 358–361, 1984.
+
+<a id="1">[7]</a> D. Geling and D. Geling, “Detailed explanation of CSP-J2019 simulation certification test 2,” Fujian Computer, vol. 35, no. 6, p. 6, 2019.
+
+<a id="1">[8]</a> S. S. Dhaliwal, A.-A. Nahid, and R. Abbas, “Effective intrusion detection system using XGBoost,” Information, vol. 9, no. 7, p. 149, 2018.
