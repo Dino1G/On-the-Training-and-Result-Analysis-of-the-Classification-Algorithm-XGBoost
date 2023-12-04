@@ -1,13 +1,13 @@
 # On the Training and Result Analysis of the Classification Algorithm XGBoost
 
-## Abstract
-This paper explores the XGBoost and Gradient Boosting Decision Tree (GBDT) algorithms for analyzing COVID datasets. Our study aims to compare these two widely used techniques in machine learning and their effectiveness in different aspects such as performance, accuracy, precision, and model training time.
-
-### Authors
+## Authors
 - Yi-Chun Huang
 - 36282705
 - 36202620
 - 36347797
+- 
+## Abstract
+This paper explores the XGBoost and Gradient Boosting Decision Tree (GBDT) algorithms for analyzing COVID datasets. Our study aims to compare these two widely used techniques in machine learning and their effectiveness in different aspects such as performance, accuracy, precision, and model training time.
 
 ## Introduction
 The paper begins with an exploration of tree methods and boosting techniques. We delve into the mathematical principles of XGBoost, its implementation, and a comparative analysis with the GBDT algorithm. The focus is on understanding the advantages, disadvantages, and applicability of these methods in various scenarios.
